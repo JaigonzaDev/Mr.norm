@@ -36,8 +36,8 @@ Antes de ejecutar el script, asegúrate de tener lo siguiente:
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone <URL-DE-TU-REPOSITORIO>
-    cd <NOMBRE-DEL-REPOSITORIO>
+    git clone https://github.com/JaigonzaDev/Mr.norm
+    cd https://github.com/JaigonzaDev/Mr.norm
     ```
 
 2.  **Instala las dependencias necesarias:**
